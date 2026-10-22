@@ -2,7 +2,7 @@
 
 Unity `.jslib` bridge plus a C# wrapper to show Adsun ads from a WebGL build.
 
-Add `<script src="https://adsun.io/adsun.min.js"></script>` to your WebGL template's `index.html`.
+Add `<script src="https://api.adsun.io/sdk.js"></script>` to your WebGL template's `index.html`.
 
 ## Run
 
